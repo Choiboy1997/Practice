@@ -10,3 +10,5 @@ B1B1B1
 BB1BB1BB1
 ----------
 BBB1BBB1BBB1
+---------
+B2B2B2
